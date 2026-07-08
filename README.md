@@ -1,4 +1,4 @@
-Hi, I'm Anointing Ade
+Hi, I'm Anointing Ademola
 ## About me
 I am a cybersecurity student at NIIT Port Harcourt, about offensive and defensive cybersecurity
 I enjoy buiding practical cybersecurity project that demonstrate real world skill in:
@@ -37,3 +37,4 @@ Log Analysis             Analyzed IIS and Windows event log to identify attacks 
 -NIIT Port Harcourt: Cyber security program
 ## Contact
 -anointingademola34@gmail.com
+-anointingmola_18@yahoo.com
